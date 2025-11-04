@@ -4,7 +4,6 @@
 Basic inventory manager that helps pharmacists keep track of units in stock. Add, remove, view, or save inventory. 
  
 ## Features
-# Features
 - Add/remove/view drugs (CRUD operations)
 - Low stock alerts (warns when quantity < 10)
 - Save inventory to .txt file
